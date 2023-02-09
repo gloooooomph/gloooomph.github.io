@@ -12,16 +12,16 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "29d1175e4b8a032b585a9991ad52dde8",
+"main.dart.js": "20c5f94dc70caf0258206a3192f9a20f",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "e9fe49ef1305bc58611f46f0ec976088",
-"assets/NOTICES": "107c060df5c6b393f07ff85f41c46c43",
+"assets/NOTICES": "0db0975358b8b6dac823d9bd0eec1bf6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"index.html": "b7c524173eb62363276fa4286b1ca223",
-"/": "b7c524173eb62363276fa4286b1ca223",
+"index.html": "aca40a39091ffe9a6cd49ffc09b8f141",
+"/": "aca40a39091ffe9a6cd49ffc09b8f141",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4"
 };
 
